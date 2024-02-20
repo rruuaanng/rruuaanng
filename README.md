@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![image](./image.png)
+![image](image/p1.png)
