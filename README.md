@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-<img src="image/p1.png">
+<img src="p1.png">
 
