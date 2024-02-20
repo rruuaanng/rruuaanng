@@ -1,3 +1,4 @@
 ### Hi there 👋
 
-![image](image/p1.png)
+<img src="images/B站宣传.png" width="30%">
+
