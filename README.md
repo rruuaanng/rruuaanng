@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-<img src="images/p1.png" width="30%">
+<img src="image/p1.png" width="30%">
 
