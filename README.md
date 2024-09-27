@@ -19,5 +19,3 @@ More precisely, free software means users of a program have the four essential f
 4. The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
 
 Developments in technology and network use have made these freedoms even more important now than they were in 1983.
-
-Nowadays the free software movement goes far beyond developing the GNU system. See the Free Software Foundation's web site for more about what we do, and a list of ways you can help.
