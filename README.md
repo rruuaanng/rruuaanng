@@ -5,6 +5,7 @@ I'm an industrial control engineer, and right now I’m working on developing mo
 Here’s a list of the technologies I’m skilled in:
 - **Language**: C/C++, Python(Maybe), Simulink(Sorry that he's here).
 - **Tools**: Git, GNU-Collection, GDB, BSD.
+- **Build**: setuptools, make.
 
 ## What is Free Software?
 
