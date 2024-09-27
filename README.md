@@ -1,4 +1,4 @@
-## about me
+## About Me
 
 I'm an industrial control engineer, and right now I’m working on developing motors, digital power supplies, inertial navigation, and braking systems. I've also been involved in projects related to FLASH memory allocators, microcomputer distributed systems, and real-time embedded scheduling. Plus, they’re widely used in urban underground transportation, grid-connected power transmission, and motor parameter testing. 
 
