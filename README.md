@@ -6,7 +6,7 @@ and hardware abstraction layer(HAL). Plus, they’re widely used in urban underg
 and motor parameter testing. 
 
 Here’s a list of the technologies I’m skilled in:
-- **Language**: C/C++, Python(Maybe), LabVIEW, Simulink(Sorry that he's here).
+- **Language**: C/C++, Python(Maybe), LabVIEW, Simulink(Sorry that it's here).
 - **Tools**: Git, GNU-Collection, GDB, BSD.
 - **Build**: setuptools, make.
 
