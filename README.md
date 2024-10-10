@@ -9,7 +9,7 @@ Here’s a list of the technologies I’m skilled in:
 - **Language**: C/C++, Python(Maybe), LabVIEW, Simulink(Sorry that it's here).
 - **Tools**: Git, GNU-Collection, GDB, BSD.
 - **Build**: setuptools, make.
-- **OHH**: MPI, OpenMP.
+- **Favorite**: Django, Pytorch.
 
 ## What is Free Software?
 
