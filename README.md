@@ -1,11 +1,10 @@
 ## About Me
 
-I'm an industrial control engineer, and right now I’m working on developing motors, digital power supplies, inertial 
+I'm an industrial control engineer, and right now I'm working on developing motors, digital power supplies, inertial 
 navigation, and braking systems. I've also been involved in projects related to FLASH memory allocator, variable-frequency drive(VFD), microcomputer distributed systems, 
-and hardware abstraction layer(HAL). Plus, they’re widely used in urban underground transportation, grid-connected power transmission, 
-and motor parameter testing. 
+and hardware abstraction layer(HAL). Plus, they're widely used in urban underground transportation, grid-connected power transmission, and motor parameter testing. 
 
-Here’s a list of the technologies I’m skilled in:
+Here's a list of the technologies I’m skilled in:
 - **Language**: C/C++, Python(Maybe), LabVIEW, Simulink(Sorry that it's here).
 - **Tools**: Git, GNU-Collection, GDB, BSD.
 - **Build**: setuptools, make.
@@ -15,7 +14,7 @@ Here’s a list of the technologies I’m skilled in:
 
 Free software means the users have the freedom to run, copy, distribute, study, change and improve the software.
 
-Free software is a matter of liberty, not price. To understand the concept, you should think of “free” as in “free speech,” not as in “free beer.”
+Free software is a matter of liberty, not price. To understand the concept, you should think of "free" as in “free speech,” not as in "free beer."
 
 More precisely, free software means users of a program have the four essential freedoms:
 1. The freedom to run the program as you wish, for any purpose (freedom 0).
