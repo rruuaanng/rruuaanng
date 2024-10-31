@@ -7,7 +7,7 @@ and hardware abstraction layer(HAL). Plus, they're widely used in urban undergro
 Here's a list of the technologies I’m skilled in:
 - **Language**: C/C++, Python(Maybe), LabVIEW, Simulink(Sorry that it's here).
 - **Tools**: Git, GNU-Collection, GDB, BSD.
-- **Build**: setuptools, make.
+- **Build**: setuptools, make, Kconfig.
 - **Secure**: MISRA, CERT.
 - **Favorite**: Django, Pytorch.
 
