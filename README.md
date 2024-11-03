@@ -5,12 +5,12 @@ navigation, and braking systems. I've also been involved in projects related to 
 and hardware abstraction layer(HAL). Plus, they're widely used in urban underground transportation, grid-connected power transmission, and motor parameter testing. 
 
 Here's a list of the technologies I’m skilled in:
-- **Language**: C/C++, Python(Maybe), LabVIEW, Simulink(Sorry that it's here).
+- **Language**: C/C++, Python(Maybe), devicetree(I'm serious).
+- **Simulation**: LabVIEW, Simulink.
 - **Tools**: Git, GNU-Collection, GDB, BSD.
 - **Build**: setuptools, make, Kconfig.
-- **(#@^*$**: devicetree.
 - **Secure**: MISRA, CERT.
-- **Favorite**: Django, Pytorch.
+- **Favorite**: Django.
 
 ## What is Free Software?
 
