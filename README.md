@@ -9,7 +9,6 @@ Here's a list of the technologies I’m skilled in:
 - **Simulation**: LabVIEW, Simulink.
 - **Tools**: Git, GNU-Collection, GDB, BSD.
 - **Build**: setuptools, make, Kconfig.
-- **Secure**: MISRA, CERT.
 - **Favorite**: Django.
 
 ## What is Free Software?
