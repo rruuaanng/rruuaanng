@@ -1,8 +1,7 @@
 ## About Me
 
 I'm an industrial control engineer, and right now I'm working on developing motors, digital power supplies, inertial 
-navigation, and braking systems. I've also been involved in projects related to FLASH memory allocator, variable-frequency drive(VFD), microcomputer distributed systems, 
-and hardware abstraction layer(HAL). Plus, they're widely used in urban underground transportation, grid-connected power transmission, and motor parameter testing. 
+navigation, and braking systems. I've also been involved in projects related to FLASH memory allocator, variable-frequency drive(VFD) and hardware abstraction layer(HAL). Plus, they're widely used in urban underground transportation, grid-connected power transmission, and motor parameter testing. 
 
 Here's a list of the technologies I’m skilled in:
 - **Language**: C/C++, Python(Maybe), Devicetree(I'm serious).
