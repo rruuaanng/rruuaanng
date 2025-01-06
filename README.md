@@ -1,15 +1,3 @@
-## About Me
-
-I'm an industrial control engineer, and right now I'm working on developing motors, digital power supplies, inertial 
-navigation, and braking systems. I've also been involved in projects related to more FLASH, variable-frequency drive(VFD) and hardware abstraction layer(HAL). Plus, they're widely used in urban underground transportation, grid-connected power transmission, and motor parameter testing. 
-
-Here's a list of the technologies I’m skilled in:
-- **Language**: C/C++, Python(Maybe), Devicetree(I'm serious).
-- **Simulation**: LabVIEW, Simulink.
-- **Tools**: Git, GNU-Collection, GDB, LLVM/clang.
-- **Build**: setuptools, make, Kconfig.
-- **Favorite**: Django.
-
 ## What is Free Software?
 
 Free software means the users have the freedom to run, copy, distribute, study, change and improve the software.
@@ -23,3 +11,15 @@ More precisely, free software means users of a program have the four essential f
 4. The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
 
 Developments in technology and network use have made these freedoms even more important now than they were in 1983.
+
+## --About Me--
+I'm an industrial control engineer, and right now I'm working on development of motors, digital power supplies, and inertial
+navigation systems. I've also been deeply engaged in projects related to FLASH memory storage, variable-frequency drives (VFD),
+and hardware abstraction layers (HAL). These technologies are applied in controllers for high-speed trains, and generator unit power transmission.
+
+Here's a list of the technologies I’m skilled in:
+- **Language**: C/C++, Python(Maybe), Devicetree(I'm serious).
+- **Simulation**: LabVIEW, Simulink.
+- **Tools**: Git, GNU-Collection, GDB, LLVM/clang.
+- **Build**: setuptools, make, Kconfig.
+- **Favorite**: Django.
