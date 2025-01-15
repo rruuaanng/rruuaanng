@@ -2,7 +2,7 @@
 
 Free software means the users have the freedom to run, copy, distribute, study, change and improve the software.
 
-Free software is a matter of liberty, not price. To understand the concept, you should think of "free" as in “free speech,” not as in "free beer."
+Free software is a matter of liberty, not price. To understand the concept, you should think of "free" as in "free speech," not as in "free beer."
 
 More precisely, free software means users of a program have the four essential freedoms:
 1. The freedom to run the program as you wish, for any purpose (freedom 0).
