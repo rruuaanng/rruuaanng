@@ -16,10 +16,3 @@ Developments in technology and network use have made these freedoms even more im
 I'm an industrial control engineer, and right now I'm working on development of motors, digital power supplies, and inertial
 navigation systems. I've also been deeply engaged in projects related to FLASH memory storage, variable-frequency drives (VFD),
 and hardware abstraction layers (HAL). These technologies are applied in controllers for high-speed trains, and generator unit power transmission.
-
-Here's a list of the technologies I’m skilled in:
-- **Language**: C/C++, Python(Maybe), Devicetree(I'm serious).
-- **Simulation**: LabVIEW, Simulink.
-- **Tools**: Git, GNU-Collection, GDB, LLVM/clang.
-- **Build**: setuptools, make, Kconfig.
-- **Favorite**: TFLite.
