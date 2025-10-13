@@ -8,11 +8,12 @@ More precisely, free software means users of a program have the four essential f
 1. The freedom to run the program as you wish, for any purpose (freedom 0).
 2. The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.
 3. The freedom to redistribute copies so you can help others (freedom 2).
-4. The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
+4. The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes.
+Access to the source code is a precondition for this.
 
 Developments in technology and network use have made these freedoms even more important now than they were in 1983.
 
 ## --About Me--
 I'm an industrial control engineer, and right now I'm working on development of motors, digital power supplies, and inertial
-navigation systems. I've also been deeply engaged in projects related to FLASH memory storage, variable-frequency drives (VFD),
-and hardware abstraction layers (HAL). These technologies are applied in controllers for high-speed trains, and generator unit power transmission.
+navigation systems. I've also been deeply engaged in projects related to EC (Embedded Controller), VFD(variable-frequency drives) and hardware abstraction layers (HAL).
+These technologies are applied in controllers for high-speed trains, and generator unit power transmission.
