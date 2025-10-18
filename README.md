@@ -15,5 +15,5 @@ Developments in technology and network use have made these freedoms even more im
 
 ## --About Me--
 I'm an industrial control engineer, and right now I'm working on development of motors, digital power supplies, and inertial
-navigation systems. I've also been deeply engaged in projects related to EC (Embedded Controller), VFD(variable-frequency drives) and hardware abstraction layers (HAL).
+navigation systems. I've also been deeply engaged in projects related to EC (Embedded Controller), VFD(Variable-Frequency Drives) and hardware abstraction layers (HAL).
 These technologies are applied in controllers for high-speed trains, and generator unit power transmission.
