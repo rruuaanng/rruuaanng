@@ -12,8 +12,3 @@ More precisely, free software means users of a program have the four essential f
 Access to the source code is a precondition for this.
 
 Developments in technology and network use have made these freedoms even more important now than they were in 1983.
-
-## --About Me--
-I'm an industrial control engineer, and right now I'm working on development of motors, digital power supplies, and inertial
-navigation systems. I've also been deeply engaged in projects related to EC (Embedded Controller), VFD(Variable-Frequency Drives) and hardware abstraction layers (HAL).
-These technologies are applied in controllers for high-speed trains, and generator unit power transmission.
